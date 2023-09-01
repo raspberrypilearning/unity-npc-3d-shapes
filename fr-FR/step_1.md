@@ -1,11 +1,11 @@
-Right-click in the Hierarchy window and select **Create Empty** 3D Object then give the new GameObject a sensible name.
+Fais un clic droit dans la fenêtre Hierarchy et sélectionne **Create Empty** puis donne un nom approprié au nouveau GameObject.
 
-Right-click your new 3D shape and add other 3D shapes from **Create** > **3D Object** as child game objects. The child objects will move with the first 3D shape GameObject.
+Fais un clic droit sur ta nouvelle forme 3D et ajoute d'autres formes 3D à partir de **Create** > **3D Object** en tant que GameObjects enfants. Les objets enfants se déplaceront avec la première forme 3D GameObject.
 
-Bring your shapes to life by dragging Materials from the Project window to the shape in the Scene view.
+Donne vie à tes formes en faisant glisser les matériaux de la fenêtre Project vers la forme dans la vue Scene.
 
-This NPC has a capsule body with child GameObjects that are spheres, a capsule, and rotated cubes. The shapes have been renamed to reflect the part of the NPC they represent and coloured with Materials.
+Ce PNJ a un corps capsule avec des GameObjects enfants qui sont des sphères, une capsule et des cubes rotatifs. Les formes ont été renommées pour refléter la partie du PNJ qu'elles représentent et colorées avec des matériaux.
 
-![The Hierarchy window breakdown showing GameObject and child GameObjects for the character.](images/quest-giver-shapes.png)
+![La décomposition de la fenêtre Hierarchy montrant le GameObject et les GameObjects enfants pour le personnage.](images/quest-giver-shapes.png)
 
-![A 3D character in Scene view created out of shapes and the Hierarchy window breakdown showing GameObject and child GameObjects for the character.](images/quest-giver.png)
+![Un personnage 3D en vue Scene créé à partir de formes et la décomposition de la fenêtre Hierarchy montrant les GameObjects et les GameObjects enfants pour le personnage.](images/quest-giver.png)
